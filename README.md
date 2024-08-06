@@ -1,3 +1,7 @@
+Output of the following Project be like :
+Based on the input , it will display those cards
+![image](https://github.com/user-attachments/assets/74be4377-d946-4835-a85d-afd32faf9cb8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
